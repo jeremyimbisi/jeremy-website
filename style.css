@@ -23,6 +23,7 @@
     padding-bottom: 400px;
     margin-bottom: 50px;
     text-align: center;
+    font-size: 30px;
 }
 .image{
     image-rendering: auto;
@@ -38,7 +39,7 @@
     letter-spacing: 1.3px;
     line-height: 30px;
     color: black;
-    font-size: large;
+    font-size: 30px;
 
 }
 
@@ -57,7 +58,7 @@
 
 }
 .content .call{
-    font-size: large;
+    font-size: 25px;
 }
 ul li{
     list-style:none ; 
