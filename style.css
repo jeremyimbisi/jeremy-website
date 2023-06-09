@@ -81,3 +81,8 @@ ul li a{
 .call {
     font-size:large;
 }
+body{
+    background-color: chocolate;
+    border-style: solid;
+    height: 10px;
+}
