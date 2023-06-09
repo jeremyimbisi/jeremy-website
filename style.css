@@ -16,8 +16,14 @@
     text-align: right;
     color:gray;
 }
-.content a{
-    text-decoration: solid;
-    color: black;
-    transition: 2s ease;
+
+.content{
+    color:black;
+    font: 80px;
+    padding-bottom: 400px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.image{
+    image-rendering: auto;
 }
