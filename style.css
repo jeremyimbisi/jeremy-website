@@ -93,3 +93,9 @@ h1{
 .title {
     text-align: center;
 }
+.menu {
+    border-radius: 100%;    
+    margin-block-end: 10px;
+    display: flex;
+    justify-content: center;
+}
