@@ -2,3 +2,10 @@
     margin: 0%;
     padding: 0%;
 }
+.navbar{
+    width: 100%;
+    background: rgb(144, 238, 214);
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+}
