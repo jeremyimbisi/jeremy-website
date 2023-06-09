@@ -16,3 +16,8 @@
     text-align: right;
     color:gray;
 }
+.content a{
+    text-decoration: solid;
+    color: black;
+    transition: 2s ease;
+}
